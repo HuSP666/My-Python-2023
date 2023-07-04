@@ -5,8 +5,7 @@
     <ProjectGuid>f8c29a79-35e5-4b87-9b97-f5be3851701c</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>Gcd.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
